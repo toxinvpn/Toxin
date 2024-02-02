@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.171.110",
+            "address": "zula.ir",
             "port": 2087,
             "users": [
               {
@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "WInGOo.toXin.WeBsITe",
+          "serverName": "winGOO.TOXin.WeBSITE",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +82,7 @@
         "wsSettings": {
           "path": "/toxin",
           "headers": {
-            "Host": "WInGOo.toXin.WeBsITe"
+            "Host": "winGOO.TOXin.WeBSITE"
           }
         },
         "sockopt": {
@@ -102,8 +102,8 @@
       "settings": {
         "fragment": {
           "packets": "tlshello",
-          "length": "10-20",
-          "interval": "10-20"
+          "length": "110-220",
+          "interval": "20-30"
         }
       },
       "streamSettings": {
