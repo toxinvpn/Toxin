@@ -9,3 +9,4 @@ hysteria2://toxiinvpn@toxinvpn.alizaree.ir:1401?&insecure=1&obfs=salamander&obfs
 hysteria2://toxiinvpn@toxiiinvpn.alizaree.ir:1401?&insecure=1&obfs=salamander&obfs-password=Toxinvpn#🇺🇸Toxinvpn
 hysteria2://toxiinvpn@toxiinvpn.alizaree.ir:2083?&insecure=1&obfs=salamander&obfs-password=Toxinvpn#🇸🇪Toxinvpn
 vless://5836a6b5-eba2-4764-8a76-27fd94043074@fastly.toxinmedia.ir:443?encryption=none&security=tls&sni=toxin.com&fp=firefox&allowInsecure=1&type=ws&host=toxin.com&path=%2Ftoxin#Fastly-mEYsam.Es
+vless://331fb4d8-12d3-4ce5-a3ba-0443a45d018e@app.scarface.ir:2083?type=ws&path=%2F&host=app.scarface.ir&security=tls&fp=randomized&alpn=h2%2Chttp%2F1.1&sni=app.scarface.ir#%F0%9F%87%BA%F0%9F%87%B8CDN-MeysamCDN
