@@ -15,4 +15,4 @@ vless://e99ed30e-3958-48e5-b2f8-423d2263f110@salad.toxinfood.ir:20110?encryption
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn4es8J+Hp1ZtZXNzfE1leXNhYW0iLAogICJhZGQiOiAic2lsdmVyLnRveGluZ29sZC5pciIsCiAgInBvcnQiOiAyMDUyLAogICJpZCI6ICJmMmUxODRmNC1mZWMwLTRjYzItYTA0MS00YjhjYWEwODIxYmYiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==
 vless://f30ce591-dbb1-48bf-cfd4-f2af8636d4c3@silver.toxingold.ir:8080?type=tcp&security=none#%F0%9F%87%AC%F0%9F%87%A7ToXin.VpN%7CMey
 trojan://WyWYb0KCHx@silver.toxingold.ir:2095?type=tcp&security=none#%F0%9F%87%AC%F0%9F%87%A7%20Trojan%7CEslaH
-vless://0ed0b56c-e17f-40bf-9002-43023f5ea2e7@Folder.toxinmedia.ir:15015?type=tcp&security=none#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%8F%86%7CMeeYsaaM
+vless://0ed0b56c-e17f-40bf-9002-43023f5ea2e7@Folder.toxinmedia.ir:15015?type=tcp&path=%2F&host=Bmi.ir&headerType=http&security=none#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%8F%86%7CMeeYsaaM
